@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(106, 231, 81);
+}
+
+ img  {
+  float : right;
+  width: 400px;
+ border: 2px solid black;
+ }
+
+ h5 {
+ color:rgb(106, 231, 81)
+ }
